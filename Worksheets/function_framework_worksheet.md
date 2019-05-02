@@ -34,28 +34,39 @@ Before you can start writing code for a question, you should be able to answer a
 
 ### Convert the tempterature
 
-* Prompt: write a function that converts a Celcius tempterature value to Fahrenheit.  
+Prompt: write a function that converts a Celcius tempterature value to Fahrenheit.  
 
 1. Name:
 2. Input:
 3. Actions:
 4. Return:
 
-* Prompt: write a function to calculate the area of a square given the side length
+### Area of a square
+
+Prompt: write a function to calculate the area of a square given the side length
 
 1. Name:
 2. Input:
 3. Actions:
 4. Return:
 
-* Prompt: write a function to calculate the area of a rectangle given the side lengths
+### Area of a rectangle
+
+Prompt: write a function to calculate the area of a rectangle given the side lengths
 
 1. Name:
 2. Input:
 3. Actions:
 4. Return:
 
-* Prompt: write a function that converts a decmial value to percentage (
+### Convert to percent
+
+Prompt: write a function that converts a decmial value to formatted percentage value. Example:  `.25` to `25%`
+
+1. Name:
+2. Input:
+3. Actions:
+4. Return:
 
 
 

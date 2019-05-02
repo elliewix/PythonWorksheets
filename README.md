@@ -5,6 +5,7 @@ Repo to host the Python worksheets project!
 ## PyCon 2019 contributors:
 
 * Elizabeth Wickes (@elliewix)
+* Halle Burns (@hburns2)
 
 ## Goal
 

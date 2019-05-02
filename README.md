@@ -6,6 +6,7 @@ Repo to host the Python worksheets project!
 
 * Elizabeth Wickes (@elliewix)
 * Halle Burns (@hburns2)
+* Christopher Burke (@captainbatman)
 
 ## Goal
 

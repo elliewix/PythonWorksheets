@@ -23,3 +23,12 @@ But we need to discuss exactly which skill areas are really needed.
 * identifying accumulator patterns
 
 How can these be published so that things can be printed out or turned into a workbook?  How can we publish these that will be useful for educators trying to borrow the materials?
+
+## Agenda
+
+* Intos, who you are in 5 words
+* Who would like to do what?
+  * someone to come up with a markdown template and/or style guide
+  * someone to work on slicing syntax
+  * someone to work on another one??
+  * someone to help figure out how this could be published in a way that's helpful for the educators trying to reuse things

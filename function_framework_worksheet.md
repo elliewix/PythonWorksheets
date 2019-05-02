@@ -41,7 +41,21 @@ Before you can start writing code for a question, you should be able to answer a
 3. Actions:
 4. Return:
 
-* 
+* Prompt: write a function to calculate the area of a square given the side length
+
+1. Name:
+2. Input:
+3. Actions:
+4. Return:
+
+* Prompt: write a function to calculate the area of a rectangle given the side lengths
+
+1. Name:
+2. Input:
+3. Actions:
+4. Return:
+
+* Prompt: write a function that converts a decmial value to percentage (
 
 
 

@@ -2,6 +2,18 @@
 
 Repo to host the Python worksheets project!
 
+# License statement
+
+CC-BY 
+
+This means you can reuse, remix, or reproduce any of this content so long as you provide attribution.  All content is currently published in markdown to make this easier.
+
+# Contribution info
+
+All contributions/corrections are welcome.  Feel free to put in a PR if you are comfortable with this, but you are always welcome to file an issue with that info as needed and I can help get a PR in place.
+
+# Python Education Summit minisprint info
+
 ## PyCon 2019 contributors:
 
 * Elizabeth Wickes (@elliewix)

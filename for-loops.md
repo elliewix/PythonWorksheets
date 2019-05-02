@@ -8,7 +8,7 @@ This worksheet will provide guided and independent practice on 'for' loops that 
 **Concept**
 Much of the action driven in Python is done so by loops. Loops tell the program to repeat things. Having a computer repeat a calculation or just keep trying something through a series of values is the power of computing. We're going to be focused on looping through a set of known values.
 
-**The 'for' loop for repeating a task - the unpacking loop**
+**The `for` loop for repeating a task - the unpacking loop**
 While there is a single syntax rule for for loop, there are many types. This worksheet focuses on
 a 'for' loop that will repeat something however many times you need. This is valuable when you've
 done something once, and now want to do the same thing many times, for instance printing out each thing
@@ -31,7 +31,7 @@ Some important notes:
 - the in keyword separates the iterable variable name from the sequence
 - this case has the sequence literal in the declaration line, but could also be a variable
 
-**Setting up a 'for' loop**
+**Setting up a `for` loop**
 
 There are three steps for setting up a for loop. We'll be going through all of these in much more detail as we work through examples. This section is just to set up your thought process.
 
@@ -54,14 +54,14 @@ for letter in "alphabet":
   print(letter)
 ```
 That gives us:  
-'a'  
-'l'  
-'p'  
-'h'  
-'a'  
-'b'  
-'e'  
-'t'
+a   
+l  
+p  
+h  
+a  
+b  
+e  
+t
 
 **Question:** If we want to print out the word 'alligator', how would we change the above 'for' loop?
 
@@ -81,14 +81,14 @@ for letter in loopword:
   print(letter)
 ```
 Here again we get:  
-'a'  
-'l'  
-'p'  
-'h'  
-'a'  
-'b'  
-'e'  
-'t'
+a
+l
+p
+h
+a
+b
+e
+t
 
 **Question:** If we wanted to instead print out the letters from 'alligator', what would we change above?
 
@@ -108,14 +108,14 @@ for letter in loopword:
 
 This prints:  
 
-'This is the letter: a'  
-'This is the letter: l'  
-'This is the letter: p'  
-'This is the letter: h'  
-'This is the letter: a'  
-'This is the letter: b'  
-'This is the letter: e'  
-'This is the letter: t'
+This is the letter: a    
+This is the letter: l  
+This is the letter: p  
+This is the letter: h  
+This is the letter: a  
+This is the letter: b  
+This is the letter: e    
+This is the letter: t
 
 **Question:** If we changed the variable *loopword* to 'telephone', what would get printed out?
 

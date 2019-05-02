@@ -134,10 +134,10 @@ for num in numlist:
   print(num)
 ```
 That gives us:  
-1
-2
-3
-4
+1  
+2  
+3  
+4  
 5
 
 **Question:** If we wanted to print out 1-8 instead, what would we change?

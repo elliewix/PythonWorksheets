@@ -2,6 +2,10 @@
 
 Repo to host the Python worksheets project!
 
+## PyCon 2019 contributors:
+
+* Elizabeth Wickes (@elliewix)
+
 ## Goal
 
 To create worksheet content suitable for adaptation and printing within the python classroom.
